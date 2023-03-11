@@ -1,0 +1,19 @@
+.details-sec{
+    align-items: center;
+    text-align: left;
+    margin-top: -4%;
+  }
+
+
+  p{
+    font-size: 15px;
+    margin-left: 6%;
+  }
+
+
+
+  .update-btn button{
+    margin-left: 47%;
+    margin-bottom: 3%;
+    margin-top: -2%;
+  }

@@ -1,0 +1,23 @@
+.register {
+    text-align: center;
+    align-items: center;
+}
+
+.register p{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 2%;
+    color: #EE6983;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.register p:hover{
+    font-size: 13px;
+    color: #576F72;
+}
+
+.register button{
+    margin-left: 5%;
+    margin-top: 0%;
+}
